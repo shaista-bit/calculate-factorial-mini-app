@@ -1,0 +1,46 @@
+#container {
+    background: #e4e4ef;
+    border: 2px solid rgb(155 150 150);
+    margin: auto;
+    width: 400px;
+    text-align: center;
+    font-size: 1rem;
+
+}
+
+.border-radius {
+    border-radius: 5px;
+}
+
+.margin {
+    margin-bottom: 10px;
+
+}
+
+.padding {
+    padding-left: 10px;
+}
+
+#bgcolor {
+    background: #67c6fa;
+    border: none;
+    color: #f5f9fb;
+}
+
+input {
+    width: 277px;
+}
+
+.width {
+    width: 143px;
+
+}
+
+.height {
+    height: 35px;
+}
+
+.border {
+    border: 2px solid #cacad2;
+
+}
